@@ -1,0 +1,7 @@
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Release\DemoWindoserviceBlog.exe.config
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Release\DemoWindoserviceBlog.exe
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Release\DemoWindoserviceBlog.pdb
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Release\DemoWindoserviceBlog.ProjectInstaller.resources
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Release\DemoWindoserviceBlog.csproj.GenerateResource.Cache
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Release\DemoWindoserviceBlog.exe
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Release\DemoWindoserviceBlog.pdb

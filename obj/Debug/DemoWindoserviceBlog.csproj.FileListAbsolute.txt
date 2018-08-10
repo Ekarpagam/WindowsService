@@ -1,0 +1,17 @@
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.pdb
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.exe
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.pdb
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe.config
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.ProjectInstaller.resources
+D:\Demo\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.csproj.GenerateResource.Cache
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe.config
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.pdb
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.ProjectInstaller.resources
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.csproj.GenerateResource.Cache
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.exe
+C:\Users\karpa\Downloads\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.pdb
+K:\Project\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\bin\Debug\DemoWindoserviceBlog.exe.config
+K:\Project\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.exe
+K:\Project\DemoWindoserviceBlog\DemoWindoserviceBlog\DemoWindoserviceBlog\obj\Debug\DemoWindoserviceBlog.pdb
